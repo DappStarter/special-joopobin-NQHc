@@ -1,0 +1,19 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "PAL",
+                "symbol": "PAL",
+                "decimals": "18",
+                "supply": "10000"
+            }
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "react"
+}
